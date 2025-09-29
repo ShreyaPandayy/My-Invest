@@ -7,16 +7,8 @@ MeInvest is a modern Next.js application for real-time market data, AI-powered t
 ## Live Demo
 
 Access the live app here:  
-**[MeInvest Live Server](https://studio--studio-1782527690-60ac6.us-central1.hosted.app/)**
+**[MeInvest Live Server](https://)**
 
----
-
-## YouTube Demo
-
-Watch the full walkthrough:  
-**[MeInvest Demo on YouTube](https://youtu.be/H-4XzFxyQDg)**
-
----
 
 ## Features
 
@@ -53,7 +45,7 @@ Watch the full walkthrough:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/harshkr0011/MeInvest.git
+   git clone https://github.com/ShreyaPandayy/My-Invest.git
    cd MeInvest
    ```
 
@@ -140,9 +132,3 @@ module.exports = {
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-## Contact
-
-For questions or support, open an issue or contact [harshkr0011](https://github.com/harshkr0011).
