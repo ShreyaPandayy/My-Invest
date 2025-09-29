@@ -1,0 +1,16 @@
+{
+  "node": {
+    "4032f92032bf19f60d885b4d6577bd6f754608f3e4": {
+      "workers": {
+        "app/contact/page": {
+          "moduleId": "[project]/.next-internal/server/app/contact/page/actions.js { ACTIONS_MODULE0 => \"[project]/ai/flows/contact-us-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/contact/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

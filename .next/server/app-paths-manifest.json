@@ -1,0 +1,13 @@
+{
+  "/contact/page": "app/contact/page.js",
+  "/cryptocurrency/page": "app/cryptocurrency/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/funds/page": "app/funds/page.js",
+  "/gold/page": "app/gold/page.js",
+  "/news/page": "app/news/page.js",
+  "/page": "app/page.js",
+  "/savings/page": "app/savings/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/stock/page": "app/stock/page.js",
+  "/wallet/page": "app/wallet/page.js"
+}
