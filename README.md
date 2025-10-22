@@ -1,4 +1,4 @@
-# MeInvest
+# MeInvest!
 
 MeInvest is a modern Next.js application for real-time market data, AI-powered trend analysis, portfolio management, and financial news. Built with React, Tailwind CSS, Radix UI, Genkit AI, and Firebase, it provides a seamless, interactive investment experience.
 
